@@ -8,5 +8,6 @@ This code can help you understand the principles of VAEs and some of their inter
 
 All the code is inside a single notebook. Written using PyTorch.
 
-Credits to:
+Useful sources:
+https://arxiv.org/abs/1312.6114
 https://github.com/karpathy/minGPT
